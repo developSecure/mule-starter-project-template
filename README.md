@@ -1,1 +1,1 @@
-# Your project name
+# mule-starter-project-template
